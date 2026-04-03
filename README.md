@@ -53,7 +53,7 @@ https://github.com/njiang8/Building_Evacuation
 
 ### 4. Multi-Disease SEIR Agent-Based Model  
 **Repository**:  
-https://github.com/njiang8/seir-multi
+[https://github.com/njiang8/seir-multi](https://github.com/njiang8/large-scale-seir)
 
 ---
 
